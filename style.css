@@ -58,3 +58,23 @@ button:hover{
     
 }
 
+.footer{
+    background-color: grey;
+    color:#ffffff;
+    text-align: center;
+    padding: 25px 15px;
+    margin-top:40px;
+}
+
+
+
+#contacts a {
+    text-decoration: none;
+}
+
+#contacts a:hover {
+    text-decoration: underline;
+}
+    
+
+
