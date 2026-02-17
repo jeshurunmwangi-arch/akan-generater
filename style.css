@@ -1,5 +1,4 @@
 body {
-    
     background-color: azure;
     justify-content: center;
     height: 100%;
@@ -14,14 +13,18 @@ body {
     background-size: cover;
 }    
 
+.generater {
+    display: flex;
+    gap:100px;
 
-.explanation {
-    flex:1;
 }
 
+
+
+
 .container {
-    flex:2;
-    margin-top:60px;
+    margin-top:20px;
+    margin-left:10px;
     padding:25px;
     border-radius:10px;
     width: 400px;
@@ -34,11 +37,13 @@ body {
 h1 {
     margin-bottom:10px;
     text-align: center;
+    color: #f39c12;
 }
  
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    color: #ffffff;
+    margin-left: 30px;
 }
 
 input {
